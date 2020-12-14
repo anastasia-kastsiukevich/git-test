@@ -47,3 +47,9 @@ p {
     font-style: italic;
     margin-bottom: 20px;
 }
+
+.the-end {
+    font-weight: 700;
+    color: rgb(85, 132, 202);
+    margin-bottom: 0;
+}
