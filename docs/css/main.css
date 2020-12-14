@@ -39,3 +39,11 @@ img {
     height: auto;
     vertical-align: middle;
 }
+
+p {
+    text-indent: 30px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin-bottom: 20px;
+}
